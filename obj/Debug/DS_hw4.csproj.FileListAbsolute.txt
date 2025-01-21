@@ -1,0 +1,7 @@
+C:\Users\LBC\source\repos\DS_hw4\bin\Debug\DS_hw4.exe.config
+C:\Users\LBC\source\repos\DS_hw4\bin\Debug\DS_hw4.exe
+C:\Users\LBC\source\repos\DS_hw4\bin\Debug\DS_hw4.pdb
+C:\Users\LBC\source\repos\DS_hw4\obj\Debug\DS_hw4.csproj.AssemblyReference.cache
+C:\Users\LBC\source\repos\DS_hw4\obj\Debug\DS_hw4.csproj.CoreCompileInputs.cache
+C:\Users\LBC\source\repos\DS_hw4\obj\Debug\DS_hw4.exe
+C:\Users\LBC\source\repos\DS_hw4\obj\Debug\DS_hw4.pdb
